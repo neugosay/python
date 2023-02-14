@@ -1,7 +1,7 @@
 from aiogram.dispatcher.filters.state import StatesGroup, State
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
-TOKEN = '5610695050:AAG0GisbWxOr8LVSmZKPrEfP28rWDNTyp5E'
+TOKEN = '5896520952:AAF71MR8pMZgZtakbNdR0SJLjOGoybJP8jk'
 
 kolvos = ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '🔴 Назад', '🔴 Orqaga']
 
